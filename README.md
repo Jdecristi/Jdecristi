@@ -2,11 +2,11 @@
 
 ## Software Engineer
 
-Problem solver who loves digging into complicated real-world problems and coding up simple and robust solutions. At home in the frontend, React, Typescript app, but constantly seeks out new ways to learn and grow. Skilled communicator who can break down complicated topics into a simple format.
+Utilizing problem-solving skills to tackle complex real-world issues and create simple yet robust solutions using my extensive knowledge of React.js, Vue.js, and Typescript. Committed to staying up-to-date with the latest industry trends and continuously improving my skills while effectively communicating complex topics in a clear and simple manner.
 
 - 🖥️ See my portfolio at [My Portfolio](http://jdecristi.com)
 - ✉️ You can contact me at [jdecristi777@gmail.com](mailto:jdecristi777@gmail.com)
-- 🧠 I'm learning React Native
+- 🧠 I'm currently working on ApplyAi, an app for automating job applications with Ai
 
 ### Skills
 
