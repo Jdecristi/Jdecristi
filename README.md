@@ -1,11 +1,11 @@
-# Hi 👋 My name is Joshua DeCristi
+# 👋 Hi My name is Joshua DeCristi
 
 ## Software Engineer
 
 Utilizing problem-solving skills to tackle complex real-world issues and create simple yet robust solutions using my extensive knowledge of React.js, Vue.js, and Typescript. Committed to staying up-to-date with the latest industry trends and continuously improving my skills while effectively communicating complex topics in a clear and simple manner.
 
 - 🖥️ See my portfolio at [My Portfolio](http://jdecristi.com)
-- ✉️ You can contact me at [jdecristi777@gmail.com](mailto:jdecristi777@gmail.com)
+- ✉️ You can contact me at [joshua.decristi@gmail.com](mailto:joshua.decristi@gmail.com)
 - 🧠 I'm currently working on ApplyAi, an app for automating job applications with Ai
 
 ### Skills
