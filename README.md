@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-I'm a self-taught software engineer with a construction background. I fell in love with software after creating website for a local restaurant. I landed a junior role at Thumbstopper and later expanded my skills to include Vue.js, React, and Typescript. Through Formation, I've had the opportunity to learn from top engineers and mentor my peers. Today, I strive to work on projects I love, meet people smarter than me, and learn something new everyday!
+I’m a self taught Full Stack Software Engineer who loves moving fast, wearing many hats, and collaborating with awesome people. I’ve worked with frontends using React and Vue, backends using Node.js and PHP, and cloud infrastructure using AWS. I’m looking to join my next small startup that is building the future.
 
 - 🖥️ See my [portfolio](https://jdecristi.com)
 - 📩 You can contact me at [joshua.decristi@gmail.com](mailto:joshua.decristi@gmail.com)
