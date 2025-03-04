@@ -6,11 +6,11 @@ I'm a self-taught software engineer with a construction background. I fell in lo
 
 - 🖥️ See my [portfolio](https://jdecristi.com)
 - 📩 You can contact me at [joshua.decristi@gmail.com](mailto:joshua.decristi@gmail.com)
-- 🧠 Learning Solidity <img src="https://skillicons.dev/icons?i=solidity" width="16" height="12" alt="Solidity" />
+- 🧠 Learning Scala <img src="https://skillicons.dev/icons?i=scala" width="16" height="12" alt="Solidity" />
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,tailwind,mui,next,graphql)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,next,php,laravel,postgres,mongodb,docker)
 
 ### Socials
 
